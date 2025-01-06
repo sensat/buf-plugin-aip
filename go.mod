@@ -1,4 +1,4 @@
-module github.com/felipeparaujo/buf-plugin-aip
+module github.com/sensat/buf-plugin-aip
 
 go 1.23.3
 
